@@ -1,0 +1,52 @@
+
+body {
+  background-image: url(../imagenes/fondo3.jpg);
+  font-family: verdana;
+}
+.contenedor-prinp{
+  background-color: rgba(124,135,157,0.9);
+  padding: 20px;
+}
+/** cabecera1 **/
+.logo1 {
+  border-right: 1px #cacaca solid;
+}
+.logotipo1 {
+    color: #edf5ff;
+    font-size: 60px;
+}
+.slogan {
+    font-size: 20px;
+    color: #edf5ff;
+    text-align: right;
+}
+.cabecera1{
+}
+
+.barra-lateral {
+  background-color: #dfdff4;
+  padding-top: 20px;
+  border-radius: 5px;
+}
+
+.barra-central, .barra-centra2 {
+  background-color: #ffe9f8;
+  padding-top: 20px;
+  border-radius: 5px;
+  margin-left: 10px;
+}
+
+.barra-centra2{
+  margin-top: 10px;
+}
+
+.destacado  {
+  color:#d260aa;
+}
+
+.comentario-btn{
+  border: 1px solid grey;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px 0 10px 0;
+}
